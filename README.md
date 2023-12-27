@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gizem Guleli</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3k3MWl6ZjhyczVldDhzemFsbWlxem1mM2JhajJsczJmb3BpcHIzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif">
-
-
-
 
 <h3 align="center">I am a highly motivated data science master's student at the University of Warsaw, equipped with a robust foundation in economics, mathematics, and statistics. My academic journey has sharpened my analytical skills and provided me with a profound understanding of the intricate relationships within data. Passionate about transforming raw information into meaningful insights, I am on a quest to unravel the stories that data holds.</h3>
 
@@ -32,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gizemguleli&show_icons=true&locale=en" alt="gizemguleli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gizemguleli&" alt="gizemguleli" /></p>
+
