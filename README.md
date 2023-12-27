@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Gizem Guleli</h1>
 
-<h3 align="center">Highly motivated data science master's student with a strong foundation in economics, mathematics, and statistics.</h3>
+<h3 align="center"> I am a highly motivated data science master's student at University of Warsaw with a strong foundation in economics, mathematics, and statistics.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3k3MWl6ZjhyczVldDhzemFsbWlxem1mM2JhajJsczJmb3BpcHIzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif">
