@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gizem Guleli</h1>
 
 
-<h3 align="center">I am a highly motivated data science master's student at the University of Warsaw, equipped with a robust foundation in economics, mathematics, and statistics. My academic journey has sharpened my analytical skills and provided me with a profound understanding of the intricate relationships within data. Passionate about transforming raw information into meaningful insights, I am on a quest to unravel the stories that data holds.</h3>
+<h3 align="center">I am a highly motivated data science master's student at the University of Warsaw, equipped with a robust foundation in economics, mathematics, and statistics. My academic journey has sharpened my analytical skills and provided me with a profound understanding of the intricate relationships within data. Passionate about transforming raw information into meaningful insights, I am on a quest to unravel the stories that data holds. </h3>
 
 <h3 align="left"></h3>
 <h3 align="left"></h3>
